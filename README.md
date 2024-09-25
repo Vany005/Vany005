@@ -6,8 +6,12 @@ Sou uma desenvolvedora Fullstack, minha jornada no mundo da programação começ
 - 🌱 Estou participando da Oracle next Education em parceria com a Alura, onde estou me aprofundando em JavaScript e desenvolvendo projetos.
 - 👯 Se você está procurando alguém para colaborar em um projeto ou apenas quer bater um papo sobre tecnologia, sinta-se à vontade para me contatar! 😊
 - 😄 Pronouns: she/her...
+<div>
+  <img height ="150em" src= "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vany005&show_icons=true&theme=radical)"/>
+  <img height ="150em" src= " [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vany005&layout=donut)](https://github.com/anuraghazra/github-readme-stats)"/>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vany005&show_icons=true&theme=radical)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Vany-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vany-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
