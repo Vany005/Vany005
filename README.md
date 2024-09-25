@@ -7,7 +7,7 @@ Sou uma desenvolvedora Fullstack, minha jornada no mundo da programação começ
 - 👯 Se você está procurando alguém para colaborar em um projeto ou apenas quer bater um papo sobre tecnologia, sinta-se à vontade para me contatar! 😊
 - 😄 Pronouns: she/her...
 
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vany005&show_icons=true&theme=radical)
 <div style="display: inline_block"><br>
   <img align="center" alt="Vany-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vany-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
