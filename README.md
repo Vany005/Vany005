@@ -7,8 +7,8 @@ Sou uma desenvolvedora Fullstack, minha jornada no mundo da programação começ
 - 👯 Se você está procurando alguém para colaborar em um projeto ou apenas quer bater um papo sobre tecnologia, sinta-se à vontade para me contatar! 😊
 - 😄 Pronouns: she/her...
 <div>
-  <img height ="150em" src= "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vany005&show_icons=true&theme=radical)"/>
-  <img height ="150em" src= " [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vany005&layout=donut)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height ="150em" src= "https://github-readme-stats.vercel.app/api?username=vany005&show_icons=true&theme=radical"/>
+  
 </div>
 
 
