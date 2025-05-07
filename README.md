@@ -1,9 +1,8 @@
 ## Olá amigos e outros! Eu sou Vania Melo 👋
 Sou uma desenvolvedora Fullstack, minha jornada no mundo da programação começou com Java, mas rapidamente me aventurei em HTML,CSS e com linguagens como JavaScript.
 
-- 📚 Atualmente cursando primeiro semestre de ADS
-- 🔭 Em busca da minha primeira oportunidade em estagio
-- 🌱 Estou participando da Oracle next Education em parceria com a Alura, onde estou me aprofundando em JavaScript e desenvolvendo projetos.
+- 📚 Atualmente cursando segundo semestre de ADS
+- 🔭 Em busca da minha primeira oportunidade em estagio/júnior
 - 👯 Se você está procurando alguém para colaborar em um projeto ou apenas quer bater um papo sobre tecnologia, sinta-se à vontade para me contatar! 😊
 - 😄 Pronouns: she/her...
 <div>
