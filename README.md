@@ -5,10 +5,7 @@ Sou uma desenvolvedora Fullstack, minha jornada no mundo da programação começ
 - 🔭 Em busca da minha primeira oportunidade como trainee/júnior
 - 👯 Se você está procurando alguém para colaborar em um projeto ou apenas quer bater um papo sobre tecnologia, sinta-se à vontade para me contatar! 😊
 - 😄 Pronouns: she/her...
-<div>
-  <img height ="150em" src= "https://github-readme-stats.vercel.app/api?username=vany005&show_icons=true&theme=radical"/>
-  
-</div>
+
 
 
 <div style="display: inline_block"><br>
