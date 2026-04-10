@@ -6,7 +6,7 @@ Sou uma desenvolvedora Fullstack, minha jornada no mundo da programação começ
 - 👯 Se você está procurando alguém para colaborar em um projeto ou apenas quer bater um papo sobre tecnologia, sinta-se à vontade para me contatar! 😊
 - 😄 Pronouns: she/her...
 - ### 🔭 Atualmente explorando:
-- Cloud Computing:** Especialização em Oracle Cloud Infrastructure (OCI) via Oracle Next Education.
+  **Cloud Computing:** Especialização em Oracle Cloud Infrastructure (OCI) via Oracle Next Education.
 
 ## 🎓 Certificações
 
