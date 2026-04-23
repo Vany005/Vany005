@@ -7,6 +7,8 @@ Sou uma desenvolvedora Fullstack, minha jornada no mundo da programação começ
 - 😄 Pronouns: she/her...
 - ### 🔭 Atualmente explorando:
   **Cloud Computing:** Especialização em Oracle Cloud Infrastructure (OCI) via Oracle Next Education.
+  
+  <br>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" />
